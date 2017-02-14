@@ -1,2 +1,3 @@
 *.sublime-*
 data/
+node_modules/
